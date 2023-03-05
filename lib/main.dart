@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:test22/loginpage.dart';
+
 import 'package:test22/whatsapp.dart';
 
 void main() {
